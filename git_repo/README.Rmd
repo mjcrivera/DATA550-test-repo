@@ -9,4 +9,4 @@ Here is some text that constitutes my first commit in this repo.
 
 # My second commit
 
-Here is more text that will be added in my second commit.
+Here is more text that will be added in my second commit
