@@ -1,0 +1,12 @@
+---
+title: "My git repo"
+auhtor: "Monica Rivera"
+output: github_document
+---
+# My first commit
+
+Here is some text that constitutes my first commit in this repo.
+
+# My second commit
+
+Here is more text that will be added in my second commit.
