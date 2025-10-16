@@ -1,5 +1,5 @@
 ---
-title: "My git repo"
+title: "My git repo (on the main branch)"
 auhtor: "Monica Rivera"
 output: github_document
 ---
