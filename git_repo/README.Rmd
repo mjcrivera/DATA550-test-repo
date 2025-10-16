@@ -1,6 +1,6 @@
 ---
 title: "My git repo (on the main branch)"
-auhtor: "Monica Rivera"
+author: "Monica Rivera"
 output: github_document
 ---
 # My first commit
